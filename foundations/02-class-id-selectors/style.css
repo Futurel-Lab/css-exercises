@@ -1,0 +1,19 @@
+p.odd {
+    background-color: lightcoral;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#coolp {
+    font-size: 24px;
+}
+
+#div-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
